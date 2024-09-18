@@ -1,11 +1,10 @@
 ---
-layout: post
 title: Flake it till you make it
-subtitle: subtitle
-cover-img: /assets/img/path.jpg
+categories: 
+ - subtitle
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+tags:
+ - life
 author: Bruce Wang
 ---
 
